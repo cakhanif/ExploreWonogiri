@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Application name -->
+    <string name="app_name">Explore Wonogiri</string>
+
+    <!-- Row recipes content -->
+    <string name="cook_time">Lokasi :</string>
+    <string name="minutes"></string>
+    <string name="serve_for">Jarak dari kota :</string>
+    <string name="persons"> Km</string>
+
+    <!-- Titles page and menu -->
+    <string name="about">Tentang</string>
+    <string name="favorites">Favoritku</string>
+    <string name="search">Temukan</string>
+    <string name="share">Bagikan</string>
+
+    <!-- Search text -->
+    <string name="search_result">Hasil Pencarian</string>
+    <string name="search_hint">Tipe Pencarian</string>
+
+    <!-- Favorite content -->
+    <string name="success_add_data">Sudah menjadi favorit Anda</string>
+
+    <!-- Sharing content -->
+    <string name="share_to">Bagikan ke</string>
+    <string name="subject">Ayo Eksplore wisata di Wonogiri</string>
+    <string name="message">Download aplikasi ini di</string>
+    <string name="intro_message">My Trip My Adventure</string>
+    <string name="extra_message"> Kenali Wisata di Wonogiri</string>
+    <string name="here">Klik:https://play.google.com/store/apps/details?id=com.wonogiri.app</string>
+
+    <!-- Google Play url. Change your.package.name with your own package name. -->
+    <string name="google_play_url">https://play.google.com/store/apps/details?id=com.wonogiri.app</string>
+
+    <!-- Banner ad id. Insert your own banner id, you can get banner id via admob. -->
+    <string name="banner_ad_unit_id">BANNER_AD_UNIT_ID</string>
+
+    <!-- Interstitial ad id. Insert your own interstitial id, you can get interstitial id via admob. -->
+    <string name="interstitial_ad_unit_id">INTERSTITIAL_AD_UNIT_ID</string>
+
+    <!-- Confirmation dialog -->
+    <string name="cancel">BATAL</string>
+    <string name="confirm">YA</string>
+    <string name="confirm_message">hapus dari favorit Anda?</string>
+    <string name="remove">HAPUS</string>
+    <string name="success_remove">Berhasil di hapus </string>
+    <string name="no_recipes">tidak ada favorit yang dipilih</string>
+
+    <!-- Pager titles in detail page -->
+    <string-array name="detail_pagers">
+        <item>DESKRIPSI</item>
+        <item>DETAIL</item>
+        <item>PETA</item>
+    </string-array>
+
+    <!-- Titles in about page -->
+    <string-array name="about_titles">
+        <item>Aplikasi</item>
+        <item>Versi</item>
+        <item>Pengembang</item>
+        <item>Hak Cipta</item>
+        <item>Bagikan ke teman</item>
+        <item>Nila Aplikasi</item>
+        <item>Tentang Aplikasi</item>
+    </string-array>
+
+    <!-- Summaries in about page -->
+    <string-array name="about_summaries">
+        <item>Explore Wonogiri</item>
+        <item>Versi 1.0</item>
+        <item>Team 10 </item>
+        <item>Hak Cipta 2015</item>
+        <item>Bagikan ke teman Anda</item>
+        <item>Nilai Aplikasi ini</item>
+        <item>Kritik dan Saran Anda</item>
+    </string-array>
+
+</resources>
